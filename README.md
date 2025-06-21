@@ -2,11 +2,11 @@
 
 ![Screenshot_20250619-155415](https://github.com/user-attachments/assets/994094d2-ee9a-433f-b650-422f7ca01f26)
 
-**Bootcamp WEX - End to End Engineering.**
+**Bootcamp WEX - End to End Engineering.** **Ministrado pela DIO.**
 
 
  **DESCRIÇÃO:**
-Este projeto oferece a você a oportunidade única de conceber e projetar uma plataforma virtual para uma farmácia fictícia, utilizando a infraestrutura da AWS.
+Este projeto oferece  a oportunidade única de conceber e projetar uma plataforma virtual para uma farmácia fictícia, utilizando a infraestrutura da AWS.
 
  Ao enfrentar e resolver desafios semelhantes aos encontrados no mundo real, você aprofundará seu conhecimento sobre os serviços da AWS.
 
