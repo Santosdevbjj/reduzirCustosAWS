@@ -19,7 +19,7 @@ O projeto de otimização de custos será dividido em três etapas focadas na im
 on-premise, ou que seriam excessivamente dispendiosas em uma migração sem planejamento.
 
 
-**Etapa 1:** 
+## **Etapa 1:** 
 
 **Otimização de Custos** de Computação com AWS Lambda.
 
@@ -35,7 +35,7 @@ Por exemplo, em vez de manter servidores 24/7 para processar pedidos que chegam 
 
 
 
-**Etapa 2:**
+## **Etapa 2:**
 
 **Armazenamento e Distribuição de Conteúdo Otimizados** com Amazon S3 e Amazon CloudFront
 
@@ -54,7 +54,7 @@ Isso evita a necessidade de servidores de arquivos dedicados e otimiza a banda l
  O modelo de pagamento "pague pelo que usar" do S3 é extremamente econômico para armazenamento, e o CloudFront reduz os custos de transferência de dados ao servir conteúdo de cache.
 
 
-**Etapa 3:**
+## **Etapa 3:**
 
 **Gerenciamento de Bancos de Dados** com Custo-Benefício via Amazon RDS
 **Nome da Ferramenta:** Amazon RDS (Relational Database Service)
